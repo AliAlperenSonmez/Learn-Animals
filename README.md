@@ -1,6 +1,6 @@
 # learn_animals
 
-A new Flutter application.
+This is my first serious flutter project. I was studying preparation in my university when i did this project, so this is a relatively poor project in terms of oop and algorithms. But the final product is not bad :) This is basically a flutter application for childeren to learn animals. It consist of three main parts which are learning part, quiz part, and drag-and-drop part. You can see the sncreenshots of the app in the folder named "screenshots".
 
 ## Getting Started
 
