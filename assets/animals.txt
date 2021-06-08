@@ -1,0 +1,6 @@
+dog      horse     fox         lion         wolf
+cat	 cow       sheep       elephant     eagle
+bird     duck      turtle      snake        deer
+fish     chicken   mouse       tiger        bear
+rabbit	 donkey	   squirrel    owl          hedgehog 			
+
